@@ -1,4 +1,4 @@
-# doggydo
+# DoggyDo - Dog Adoption Website
 
 ## Link to Website
 
